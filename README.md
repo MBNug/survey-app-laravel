@@ -14,6 +14,13 @@ git clone https://github.com/HendinurFaizal/survey-app-laravel.git
 
 atau
 
+untuk clone branch develop
+```console
+git clone -b develop https://github.com/HendinurFaizal/survey-app-laravel.git
+```
+
+atau
+
 download manual sebagai [zip](https://github.com/HendinurFaizal/survey-app-laravel/archive/refs/heads/main.zip) , tapi tidak direkomendasikan!
 
 #### 2. pindah ke direktori survey-app-laravel
